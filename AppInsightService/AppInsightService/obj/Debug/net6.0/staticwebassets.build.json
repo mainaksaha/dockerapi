@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mTq0trjx2lXVbV2oEXmkT5GiyjBQCcB2l3IRTcElcyA=",
+  "Source": "AppInsightService",
+  "BasePath": "_content/AppInsightService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
