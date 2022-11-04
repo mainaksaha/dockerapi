@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hGCJ4lkM1ab0/TJLFeJwVaFQf6roDq/pz6+DfDk9pVAUKcFIVtamDbhaHhqk3JmKbkayEcgDqDaQkIS768KdZA==",
+  "dgSpecHash": "BwaLct0jJgpGD+w00llElO9W60Xc67nsGtSk9/UtbnR3U+gNnK/YBjJxcia/1SACPbfOr8r1xC57Kd0svR5fhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
+  "projectFilePath": "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mainaksaha\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\microsoft.applicationinsights.2.15.0.nupkg.sha512",
     "C:\\Users\\mainaksaha\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.15.0\\microsoft.applicationinsights.aspnetcore.2.15.0.nupkg.sha512",

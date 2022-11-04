@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\AppInsightService.csproj": {}
+    "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\AppInsightService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\AppInsightService.csproj": {
+    "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\AppInsightService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
+        "projectUniqueName": "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
         "projectName": "AppInsightService",
-        "projectPath": "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
+        "projectPath": "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\AppInsightService.csproj",
         "packagesPath": "C:\\Users\\mainaksaha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mainaksaha\\AppInsightService\\AppInsightService\\obj\\",
+        "outputPath": "C:\\Users\\mainaksaha\\Documents\\GitHub\\dockerapi\\AppInsightService\\AppInsightService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mainaksaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
