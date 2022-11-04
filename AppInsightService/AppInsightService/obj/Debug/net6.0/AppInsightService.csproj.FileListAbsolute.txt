@@ -97,3 +97,6 @@ C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightServi
 C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.csproj.CopyComplete
 C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.genruntimeconfig.cache
 C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\ref\AppInsightService.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\bin\Debug\net6.0\Newtonsoft.Json.dll

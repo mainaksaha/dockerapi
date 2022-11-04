@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
-              "version": "[2.21.0, )"
+              "version": "[2.15.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
