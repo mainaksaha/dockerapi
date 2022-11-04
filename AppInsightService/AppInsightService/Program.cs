@@ -13,7 +13,8 @@ var aiOptions = new Microsoft.ApplicationInsights.AspNetCore.Extensions.Applicat
 aiOptions.EnableAdaptiveSampling = true;
 
 var tpBuilder = TelemetryConfiguration.Active.DefaultTelemetrySink.TelemetryProcessorChainBuilder;
-tpBuilder.UseAdaptiveSampling(maxTelemetryItemsPerSecond: 1);
+tpBuilder.UseAdaptiveSampling(maxTelemetryItemsPerSecond: 1, excludedTypes: "Exception");
+tpBuilder.Build();
 
 builder.Services.AddApplicationInsightsTelemetry(aiOptions);
 

@@ -70,5 +70,11 @@ namespace AppInsightService.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("test")]
+        public string GetTest()
+        {
+            return "success 1";
+        }
     }
 }
