@@ -49,3 +49,13 @@ C:\Users\mainaksaha\AppInsightService\AppInsightService\obj\Debug\net6.0\refint\
 C:\Users\mainaksaha\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.pdb
 C:\Users\mainaksaha\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.genruntimeconfig.cache
 C:\Users\mainaksaha\AppInsightService\AppInsightService\obj\Debug\net6.0\ref\AppInsightService.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.csproj.AssemblyReference.cache
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.AssemblyInfoInputs.cache
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.AssemblyInfo.cs
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.csproj.CoreCompileInputs.cache
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\refint\AppInsightService.dll
+C:\Users\mainaksaha\Documents\GitHub\dockerapi\AppInsightService\AppInsightService\obj\Debug\net6.0\AppInsightService.pdb
