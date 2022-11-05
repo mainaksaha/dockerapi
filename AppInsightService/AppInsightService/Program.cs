@@ -10,15 +10,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var aiOptions = new Microsoft.ApplicationInsights.AspNetCore.Extensions.ApplicationInsightsServiceOptions();
-aiOptions.EnableAdaptiveSampling = true;
 
-builder.Services.Configure<TelemetryConfiguration>((config) =>
-{
-    var tpBuilder = TelemetryConfiguration.Active.DefaultTelemetrySink.TelemetryProcessorChainBuilder;
-    tpBuilder.UseAdaptiveSampling(maxTelemetryItemsPerSecond: 1, excludedTypes: "Exception");
-    tpBuilder.Build();
-});
+//builder.Services.Configure<TelemetryConfiguration>((config) =>
+//{
+//    var tpBuilder = TelemetryConfiguration.Active.DefaultTelemetrySink.TelemetryProcessorChainBuilder;
+//    tpBuilder.UseAdaptiveSampling(maxTelemetryItemsPerSecond: 1, excludedTypes: "Exception");
+//    tpBuilder.Build();
+//});
 
+aiOptions.EnableAdaptiveSampling = false;
 builder.Services.AddApplicationInsightsTelemetry(aiOptions);
 
 var app = builder.Build();
