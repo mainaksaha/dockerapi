@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AppInsightService",
-    "\\AppInsightService\\AppInsightService"
+    ""
   ],
-  "SelectedNode": "\\AppInsightService\\Dockerfile",
+  "SelectedNode": "\\AppInsightService.sln",
   "PreviewInSolutionExplorer": false
 }
