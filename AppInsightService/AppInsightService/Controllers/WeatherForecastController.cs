@@ -74,7 +74,7 @@ namespace AppInsightService.Controllers
         [HttpGet("test")]
         public string GetTest()
         {
-            return "success 4";
+            return "success 5";
         }
     }
 }
